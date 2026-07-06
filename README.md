@@ -25,4 +25,3 @@ Random Forest
 - Scikit-learn
 - Matplotlib
 - Seaborn
-
